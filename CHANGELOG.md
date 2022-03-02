@@ -2,6 +2,10 @@ Details about this file’s format at <http://keepachangelog.com/>. The change l
 
 ## [Unreleased]
 
+## [Custom addition]
+
+- Add watchOS support to podspec
+
 ## [2.0.1] - 2019-11-14
 
 - Conform `JSON` to `Hashable` [cjmconie]
